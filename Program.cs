@@ -1,32 +1,79 @@
-﻿Console.WriteLine("Please enter numberGroup");
-bool firstSuccess = int.TryParse(Console.ReadLine(), out int firstNumber);
-if (firstSuccess && (firstNumber == 1 || firstNumber == 2))
+﻿
+int[] arrayOfInts = new int[6];
+
+Console.WriteLine("Please enter first number");
+bool firstNumberSuccess = int.TryParse(Console.ReadLine(), out int firstNumber);
+
+if (firstNumberSuccess)
 {
-    firstSuccess = true;
+    arrayOfInts[0] = firstNumber;
 }
-else { firstSuccess = false; }
+else { Console.WriteLine("Please enter valid number"); }
 
+Console.WriteLine("Please enter second number");
 
-string[] studentsG1 = new string[] { "Zdravko", "Petko", "Stanko", "Branko", "Trajko" };
-string[] studentsG2 = new string[] { "Nikola", "Angelina", "MAxim ", "Luka", "Gogo" };
+bool secondNumberSuccess = int.TryParse(Console.ReadLine(), out int secondNumber);
 
-
-if (firstSuccess)
+if (secondNumberSuccess)
 {
-    if (firstNumber == 1)
-    {
-        for (int i = 0; i < studentsG1.Length; i++)
-        {
-            Console.WriteLine(studentsG1[i]);
-        }
-    }
-    if (firstNumber == 2)
-        {
-            for (int i = 0; i < studentsG2.Length; i++)
-            {
-                Console.WriteLine(studentsG2[i]);
-            }
-        }
-    }
+    arrayOfInts[1] = secondNumber;
+}
+else { Console.WriteLine("Please enter valid number"); }
 
-else { Console.WriteLine("Please enter 1 or 2"); }
+Console.WriteLine("Please enter third number");
+
+bool thirdNumberSuccess = int.TryParse(Console.ReadLine(), out int thirdNumber);
+
+if (thirdNumberSuccess)
+{
+    arrayOfInts[2] = thirdNumber;
+}
+else { Console.WriteLine("Please enter valid number"); }
+
+Console.WriteLine("Please enter fourth number");
+bool fourthNumberSuccess = int.TryParse(Console.ReadLine(), out int fourthNumber);
+
+if (fourthNumberSuccess)
+{
+    arrayOfInts[3] = fourthNumber;
+}
+else { Console.WriteLine("Please enter valid number"); }
+
+
+Console.WriteLine("Please enter fifth number");
+bool fifthNumberSuccess = int.TryParse(Console.ReadLine(), out int fifthNumber);
+
+if (fifthNumberSuccess)
+{
+    arrayOfInts[4] = fifthNumber;
+}
+else { Console.WriteLine("Please enter valid number"); }
+
+
+Console.WriteLine("Please enter sixth number");
+bool sixthNumberSuccess = int.TryParse(Console.ReadLine(), out int sixthNumber);
+
+if (sixthNumberSuccess)
+{
+    arrayOfInts[5] = sixthNumber;
+}
+else { Console.WriteLine("Please enter valid number"); }
+
+
+if(firstNumberSuccess && secondNumberSuccess && thirdNumberSuccess && fourthNumberSuccess && fifthNumberSuccess && sixthNumberSuccess)
+{ 
+int temporary = 0;
+for (int i = 0; i < arrayOfInts.Length; i++)
+{
+    if (arrayOfInts[i] % 2 ==0) {
+
+        temporary = temporary + arrayOfInts[i];
+        
+    }
+   
+}
+Console.WriteLine(temporary);
+}
+
+else { Console.WriteLine("Bad entry data"); }
+
