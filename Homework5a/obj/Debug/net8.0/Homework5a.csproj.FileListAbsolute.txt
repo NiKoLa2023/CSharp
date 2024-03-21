@@ -1,0 +1,14 @@
+C:\Users\interkons\Desktop\Csharp\Homework5a\bin\Debug\net8.0\Homework5a.exe
+C:\Users\interkons\Desktop\Csharp\Homework5a\bin\Debug\net8.0\Homework5a.deps.json
+C:\Users\interkons\Desktop\Csharp\Homework5a\bin\Debug\net8.0\Homework5a.runtimeconfig.json
+C:\Users\interkons\Desktop\Csharp\Homework5a\bin\Debug\net8.0\Homework5a.dll
+C:\Users\interkons\Desktop\Csharp\Homework5a\bin\Debug\net8.0\Homework5a.pdb
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.dll
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\refint\Homework5a.dll
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.pdb
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\Homework5a.genruntimeconfig.cache
+C:\Users\interkons\Desktop\Csharp\Homework5a\obj\Debug\net8.0\ref\Homework5a.dll
