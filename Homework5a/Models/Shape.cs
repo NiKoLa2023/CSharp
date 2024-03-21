@@ -10,10 +10,11 @@ namespace Homework5a.Models
 
         public string Color;
 
-        private int[] Coordinates { get; set; }
+        public int[] Coordinates { get; set; }
 
         public Shape()
         {
+        
         }
 
         public Shape(string name, string color, int[] coordinates)
@@ -34,13 +35,14 @@ namespace Homework5a.Models
         {
             Console.WriteLine("There is no special implementation for perimeter");
         }
-        private void Move()
+        protected virtual void Move()
         {
             Coordinates[0] = Coordinates[0] + 5;
             Coordinates[1] = Coordinates[1] + 5;
         }
         public virtual void PrintInfo()
         {
+            
             Console.WriteLine($"The updated coordinate position for X is {Coordinates[0]} and for Y is {Coordinates[1]}");
         }
 
