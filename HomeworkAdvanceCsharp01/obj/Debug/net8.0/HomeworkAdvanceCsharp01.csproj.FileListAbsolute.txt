@@ -1,0 +1,14 @@
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\bin\Debug\net8.0\HomeworkAdvanceCsharp01.exe
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\bin\Debug\net8.0\HomeworkAdvanceCsharp01.deps.json
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\bin\Debug\net8.0\HomeworkAdvanceCsharp01.runtimeconfig.json
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\bin\Debug\net8.0\HomeworkAdvanceCsharp01.dll
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\bin\Debug\net8.0\HomeworkAdvanceCsharp01.pdb
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.dll
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\refint\HomeworkAdvanceCsharp01.dll
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.pdb
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\HomeworkAdvanceCsharp01.genruntimeconfig.cache
+C:\Users\interkons\Desktop\Csharp\HomeworkAdvanceCsharp01\obj\Debug\net8.0\ref\HomeworkAdvanceCsharp01.dll
