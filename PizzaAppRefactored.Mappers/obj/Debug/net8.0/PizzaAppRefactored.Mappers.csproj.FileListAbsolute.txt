@@ -1,0 +1,17 @@
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.Mappers.deps.json
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.Mappers.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.Mappers.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.ViewModels.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.Domain.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\bin\Debug\net8.0\PizzaAppRefactored.ViewModels.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.csproj.AssemblyReference.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaApp.FEFD5F74.Up2Date
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\refint\PizzaAppRefactored.Mappers.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\PizzaAppRefactored.Mappers.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Mappers\obj\Debug\net8.0\ref\PizzaAppRefactored.Mappers.dll
