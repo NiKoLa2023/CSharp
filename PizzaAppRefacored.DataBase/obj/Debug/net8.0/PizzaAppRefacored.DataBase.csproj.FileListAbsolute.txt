@@ -1,0 +1,15 @@
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\bin\Debug\net8.0\PizzaAppRefacored.DataBase.deps.json
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\bin\Debug\net8.0\PizzaAppRefacored.DataBase.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\bin\Debug\net8.0\PizzaAppRefacored.DataBase.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\bin\Debug\net8.0\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\bin\Debug\net8.0\PizzaAppRefactored.Domain.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.csproj.AssemblyReference.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaApp.467EAC9B.Up2Date
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\refint\PizzaAppRefacored.DataBase.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\PizzaAppRefacored.DataBase.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefacored.DataBase\obj\Debug\net8.0\ref\PizzaAppRefacored.DataBase.dll
