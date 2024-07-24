@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PizzaAppRefacored.DataBase\PizzaAppRefacored.DataBase.csproj" />
+    <ProjectReference Include="..\PizzaAppRefactored.Mappers\PizzaAppRefactored.Mappers.csproj" />
+    <ProjectReference Include="..\PizzaAppRefactored.ViewModels\PizzaAppRefactored.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

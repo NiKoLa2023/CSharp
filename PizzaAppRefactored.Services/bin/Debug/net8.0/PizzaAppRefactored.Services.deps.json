@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PizzaAppRefactored.Services/1.0.0": {
+        "dependencies": {
+          "PizzaAppRefacored.DataBase": "1.0.0",
+          "PizzaAppRefactored.Mappers": "1.0.0",
+          "PizzaAppRefactored.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "PizzaAppRefactored.Services.dll": {}
+        }
+      },
+      "PizzaAppRefacored.DataBase/1.0.0": {
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaAppRefacored.DataBase.dll": {}
+        }
+      },
+      "PizzaAppRefactored.Domain/1.0.0": {
+        "runtime": {
+          "PizzaAppRefactored.Domain.dll": {}
+        }
+      },
+      "PizzaAppRefactored.Mappers/1.0.0": {
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0",
+          "PizzaAppRefactored.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "PizzaAppRefactored.Mappers.dll": {}
+        }
+      },
+      "PizzaAppRefactored.ViewModels/1.0.0": {
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaAppRefactored.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaAppRefactored.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaAppRefacored.DataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaAppRefactored.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaAppRefactored.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaAppRefactored.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
