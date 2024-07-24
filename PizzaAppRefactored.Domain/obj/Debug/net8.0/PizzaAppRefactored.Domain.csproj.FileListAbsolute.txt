@@ -1,0 +1,11 @@
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\bin\Debug\net8.0\PizzaAppRefactored.Domain.deps.json
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\bin\Debug\net8.0\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\bin\Debug\net8.0\PizzaAppRefactored.Domain.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\refint\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\PizzaAppRefactored.Domain.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.Domain\obj\Debug\net8.0\ref\PizzaAppRefactored.Domain.dll
