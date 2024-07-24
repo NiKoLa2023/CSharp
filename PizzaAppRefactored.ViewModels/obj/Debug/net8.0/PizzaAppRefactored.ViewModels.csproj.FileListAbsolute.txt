@@ -1,0 +1,15 @@
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\bin\Debug\net8.0\PizzaAppRefactored.ViewModels.deps.json
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\bin\Debug\net8.0\PizzaAppRefactored.ViewModels.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\bin\Debug\net8.0\PizzaAppRefactored.ViewModels.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\bin\Debug\net8.0\PizzaAppRefactored.Domain.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\bin\Debug\net8.0\PizzaAppRefactored.Domain.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.csproj.AssemblyReference.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.AssemblyInfoInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.AssemblyInfo.cs
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaApp.325BA7BD.Up2Date
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\refint\PizzaAppRefactored.ViewModels.dll
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\PizzaAppRefactored.ViewModels.pdb
+C:\Users\interkons\Desktop\Csharp\PizzaAppRefactored\PizzaAppRefactored.ViewModels\obj\Debug\net8.0\ref\PizzaAppRefactored.ViewModels.dll
