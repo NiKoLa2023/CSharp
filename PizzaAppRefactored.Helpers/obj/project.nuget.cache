@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vG5bxSljq2s5ykp9Anau5D21IzzEXAlDpE8etkXi4djG/ttLCN/RKvTq8VxEDQVSHsq5p0KjwKrSNgSnAO/ocA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Helpers\\PizzaAppRefactored.Helpers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\interkons\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

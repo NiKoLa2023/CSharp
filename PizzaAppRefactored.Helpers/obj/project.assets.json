@@ -1,0 +1,230 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "PizzaAppRefacored.DataBase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaAppRefacored.DataBase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaAppRefacored.DataBase.dll": {}
+        }
+      },
+      "PizzaAppRefactored.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PizzaAppRefactored.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaAppRefactored.Domain.dll": {}
+        }
+      },
+      "PizzaAppRefactored.Mappers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0",
+          "PizzaAppRefactored.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaAppRefactored.Mappers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaAppRefactored.Mappers.dll": {}
+        }
+      },
+      "PizzaAppRefactored.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PizzaAppRefacored.DataBase": "1.0.0",
+          "PizzaAppRefactored.Mappers": "1.0.0",
+          "PizzaAppRefactored.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaAppRefactored.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaAppRefactored.Services.dll": {}
+        }
+      },
+      "PizzaAppRefactored.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PizzaAppRefactored.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaAppRefactored.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaAppRefactored.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+      "sha512": "fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "PizzaAppRefacored.DataBase/1.0.0": {
+      "type": "project",
+      "path": "../PizzaAppRefacored.DataBase/PizzaAppRefacored.DataBase.csproj",
+      "msbuildProject": "../PizzaAppRefacored.DataBase/PizzaAppRefacored.DataBase.csproj"
+    },
+    "PizzaAppRefactored.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PizzaAppRefactored.Domain/PizzaAppRefactored.Domain.csproj",
+      "msbuildProject": "../PizzaAppRefactored.Domain/PizzaAppRefactored.Domain.csproj"
+    },
+    "PizzaAppRefactored.Mappers/1.0.0": {
+      "type": "project",
+      "path": "../PizzaAppRefactored.Mappers/PizzaAppRefactored.Mappers.csproj",
+      "msbuildProject": "../PizzaAppRefactored.Mappers/PizzaAppRefactored.Mappers.csproj"
+    },
+    "PizzaAppRefactored.Services/1.0.0": {
+      "type": "project",
+      "path": "../PizzaAppRefactored.Services/PizzaAppRefactored.Services.csproj",
+      "msbuildProject": "../PizzaAppRefactored.Services/PizzaAppRefactored.Services.csproj"
+    },
+    "PizzaAppRefactored.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../PizzaAppRefactored.ViewModels/PizzaAppRefactored.ViewModels.csproj",
+      "msbuildProject": "../PizzaAppRefactored.ViewModels/PizzaAppRefactored.ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1",
+      "PizzaAppRefacored.DataBase >= 1.0.0",
+      "PizzaAppRefactored.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\interkons\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Helpers\\PizzaAppRefactored.Helpers.csproj",
+      "projectName": "PizzaAppRefactored.Helpers",
+      "projectPath": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Helpers\\PizzaAppRefactored.Helpers.csproj",
+      "packagesPath": "C:\\Users\\interkons\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Helpers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\interkons\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefacored.DataBase\\PizzaAppRefacored.DataBase.csproj": {
+              "projectPath": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefacored.DataBase\\PizzaAppRefacored.DataBase.csproj"
+            },
+            "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Services\\PizzaAppRefactored.Services.csproj": {
+              "projectPath": "C:\\Users\\interkons\\Desktop\\Csharp\\PizzaAppRefactored\\PizzaAppRefactored.Services\\PizzaAppRefactored.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[8.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
